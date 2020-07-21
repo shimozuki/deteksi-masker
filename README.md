@@ -48,9 +48,6 @@ $ python3 detect_mask_video.py
 Feel free to mail me for any doubts/query 
 :email: robbishimozuki@gmail.com
 
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
-
 ## :heart: Owner
 Made with :heart:&nbsp;  by [Robi](https://github.com/shimozuki)
 
