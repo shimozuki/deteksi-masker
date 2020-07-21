@@ -6,7 +6,7 @@
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+$ https://github.com/shimozuki/deteksi-masker.git
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
